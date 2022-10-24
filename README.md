@@ -22,12 +22,12 @@ Collects all information about errors and problem and stores statistic and gener
  
 ## Order & print  
 https://github.com/benzol45/MT_order_print   
-Has cataloge of products, synchronize it with GIS MT global cataloge.
+Has cataloge of products, synchronizes it with GIS MT global cataloge.
  
-IU for:
-* ordering new code pools  
-* print product labels with DataMatrix code and serial namber to label printer. Size of label 30x20 mm.  
-* view report how much labels are now unused (now does'n work, will male in future)  
+UI for:
+* ordering new marking code pools  
+* printig product labels with DataMatrix code and serial namber to label printer. Size of label 30x20 mm.  
+* viewing report how much labels are now unused (now does'n work, will make in future)  
 
 ## Marking  
 Don't have it now. Link to repository will be here. 
