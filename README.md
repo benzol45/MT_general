@@ -32,8 +32,8 @@ UI for:
 ## Marking  
 Don't have it now. Link to repository will be here. 
 
-UI for select pool of labels and application labels to product units.  
-Get information about unused labels from **Code store** and send to **Code store** information about application.  
+UI for selecting pool of labels and applicateing labels to product units.  
+Gets information about unused labels from **Code store** and sends to **Code store** information about applicate.  
 
 ## REST API for connect ERP system  
 Don't have it now. Link to repository will be here. 
