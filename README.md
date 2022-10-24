@@ -6,9 +6,9 @@
 Now only local developing. Link to repository will be here. 
  
 Requests, stores and renews API access tokens.  
-It don't have any database, only recives from REST API data and conver them to reglamented DTO, makes digital signature and send to GIS MT. 
-If it's order for marking codes and in response are codes pools - send over API them to **Code store**  
-If it's other documents only recive result and if has error - send to **Admin**. If can't connect to Admin API - send errors to e-mail. 
+It don't have any database, only recives from REST API data and converts them to reglamented DTO, makes digital signature and sends to GIS MT. 
+If it's an order for marking codes and in response are codes pools - sends over API them to **Code store**  
+If it's other documents only recives result and if has error - sends to **Admin**. If can't connect to Admin API - sends errors to e-mail. 
  
 ## Code store
 Don't have it now. Link to repository will be here. 
