@@ -5,8 +5,8 @@
 ## Crypto gateway 
 Now only local developing. Link to repository will be here. 
  
-Request, store and renew API access tokens.  
-It don't have any database, only recives from REST API data and conver them to regulated DTO, makes digital signature and send to GIS MT. 
+Requests, stores and renews API access tokens.  
+It don't have any database, only recives from REST API data and conver them to reglamented DTO, makes digital signature and send to GIS MT. 
 If it's order for marking codes and in response are codes pools - send over API them to **Code store**  
 If it's other documents only recive result and if has error - send to **Admin**. If can't connect to Admin API - send errors to e-mail. 
  
