@@ -13,12 +13,12 @@ If it's other documents only recives result and if has error - sends to **Admin*
 ## Code store
 Don't have it now. Link to repository will be here. 
 
-Recive from **Crypto gateway** code pools with referance to order, store with state: "is printed", "ready for application", "applicated", "sale". Send by request from **Order & print** and **Marking**  
+Recives from **Crypto gateway** code pools with referance to order, stores with state: "is printed", "ready for application", "applicated", "sale". Sends by request from **Order & print** and **Marking**  
  
 ## Admin & config  
 Don't have it now. Link to repository will be here. 
  
-Collect all information about errors and problem and store statistic for reports.  
+Collects all information about errors and problem and stores statistic and generats reports.  
  
 ## Order & print  
 https://github.com/benzol45/MT_order_print   
