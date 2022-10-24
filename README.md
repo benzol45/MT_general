@@ -1,5 +1,3 @@
-It's repository for collect all informatoin of the project.
-
 # General system architecture 
 ![general](https://github.com/benzol45/MT_general/blob/main/v1.jpg)
 
