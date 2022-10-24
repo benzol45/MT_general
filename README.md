@@ -38,7 +38,7 @@ Gets information about unused labels from **Code store** and sends to **Code sto
 ## REST API for connect ERP system  
 Don't have it now. Link to repository will be here. 
 
-Interface for send sale documents with information of production codes.
+Interface for send sale documents with information of product codes.
 
 
 
