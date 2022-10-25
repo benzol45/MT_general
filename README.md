@@ -11,7 +11,7 @@ If it's an order for marking codes and in response are codes pools - sends over 
 If it's other documents only recives result and if has error - sends to **Admin**. If can't connect to Admin API - sends errors to e-mail. 
  
 ## Code store
-Don't have it now. Link to repository will be here. 
+https://github.com/benzol45/MT_code_store  
 
 Recives from **Crypto gateway** code pools with referance to order, stores with state: "is printed", "ready for application", "applicated", "sale". Sends by request from **Order & print** and **Marking**  
  
