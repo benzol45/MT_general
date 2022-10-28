@@ -16,7 +16,7 @@ https://github.com/benzol45/MT_code_store
 Recives from **Crypto gateway** code pools with referance to order, stores with state: "is printed", "ready for application", "applicated", "sale". Sends by request from **Order & print** and **Marking**  
  
 ## Admin & config  
-Don't have it now. Link to repository will be here. 
+https://github.com/benzol45/MT_admin  
  
 Collects all information about errors and problem and stores statistic and generats reports.  
  
