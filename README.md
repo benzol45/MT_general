@@ -1,5 +1,5 @@
 # General system architecture 
-![general](https://github.com/benzol45/MT_general/blob/main/v1.1.png)
+![general](https://github.com/benzol45/MT_general/blob/main/v1.2.png)
 
 # Subsystems 
 ## Crypto gateway 
