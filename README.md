@@ -22,7 +22,7 @@ Collects all information about errors and problem and stores statistic and gener
  
 ## Order & print  
 https://github.com/benzol45/MT_order_print   
-Has cataloge of products, synchronizes it with GIS MT global cataloge.
+Has catalogue of products, synchronizes it with GIS MT global cataloge.
  
 UI for:
 * ordering new marking code pools  
