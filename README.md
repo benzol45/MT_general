@@ -13,7 +13,7 @@ If it's other documents only recives result and if has error - sends to **Admin*
 ## Code store
 https://github.com/benzol45/MT_code_store  
 
-Recives from **Crypto gateway** code pools with referance to order, stores with state: "is printed", "ready for application", "applicated", "sale". Sends by request from **Order & print** and **Marking**  
+Recives from **Crypto gateway** code pools with reference to order, stores with state: "is printed", "ready for application", "applicated", "sale". Sends by request from **Order & print** and **Marking**  
  
 ## Admin & config  
 https://github.com/benzol45/MT_admin  
