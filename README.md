@@ -26,8 +26,8 @@ Has catalogue of products, synchronizes it with GIS MT global cataloge.
  
 UI for:
 * ordering new marking code pools  
-* printing product labels with DataMatrix code and serial namber to label printer. Size of label 30x20 mm.  
-* viewing report how much labels are now unused (now does'n work, will make in future)  
+* printing product labels with DataMatrix code and serial number to label printer. Size of label 30x20 mm.  
+* viewing report how much labels are now unused (now doesn't work, will make in future)  
 
 ## Marking  
 Don't have it now. Link to repository will be here. 
