@@ -3,7 +3,7 @@
 
 # Subsystems 
 ## Crypto gateway 
-Now only local developing. Link to repository will be here. 
+Now is only local developing. Link to repository will be here. 
  
 Requests, stores and renews API access tokens.  
 It don't have any database, only recives from REST API data and converts them to reglamented DTO, makes digital signature and sends to GIS MT. 
